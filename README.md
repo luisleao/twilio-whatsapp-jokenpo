@@ -17,4 +17,7 @@ Para executar rode:
 node server.js
 ```
 
+
+Se você deseja utilizar a Twilio Function para seu código e executá-lo em uma estrutura serverless, utilize apenas o arquivo ```twilio-function.js```
+
 Caso tenha alguma dúvida, entre em contato com lleao [arroba] twilio.com.
