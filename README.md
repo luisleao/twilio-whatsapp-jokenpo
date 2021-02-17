@@ -5,9 +5,11 @@ Veja no artigo [Como criar um bot no WhatsApp em 5 minutos em Node.js](https://t
 
 
 Para instalar execute o seguinte comando no seu terminal:
+
 ```npm install```
 
 Para executar rode:
+
 ```node server.js```
 
 Caso tenha alguma dúvida, entre em contato com lleao [arroba] twilio.com.
